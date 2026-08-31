@@ -1,1 +1,1 @@
-Sitemap: https://gpbic.github.io/gpbic/sitemap.xml
+Sitemap: https://gpbic.github.io/grupo-pesquisa-biologia-computacional/sitemap.xml

@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: Grupo de pesquisa em Biologia Computacional (GPBIC)
+subtitle: UFRJ-Inmetro-Fiocruz
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
+  email: teste
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  github: https://github.com/gpbic
+  instagram: https://www.instagram.com/bioin4all/
+  Cnpq: http://dgp.cnpq.br/dgp/espelhogrupo/0801520924494361
 
 ### jekyll settings
 

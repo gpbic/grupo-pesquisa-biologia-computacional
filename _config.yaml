@@ -9,10 +9,9 @@ proofer: false
 # site social media and other links
 links:
   email: teste
-  google-scholar: ETJoidYAAAAJ
-  github: https://github.com/gpbic
-  instagram: https://www.instagram.com/bioin4all/
-  Cnpq: http://dgp.cnpq.br/dgp/espelhogrupo/0801520924494361
+  github: "https://github.com/gpbic"
+  instagram: "https://www.instagram.com/bioin4all/"
+  Cnpq: "http://dgp.cnpq.br/dgp/espelhogrupo/0801520924494361"
 
 ### jekyll settings
 
